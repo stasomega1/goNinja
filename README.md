@@ -1,0 +1,2 @@
+# goNinja
+goNinja test project
